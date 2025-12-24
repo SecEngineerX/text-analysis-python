@@ -33,10 +33,14 @@
 # 4. Replace sample_data.txt or provide your own text input to analyze.
 ```
 ## Sample Output
-Sentence: I went to school today!
-Letters: 18
-Digits: 0
-Spaces: 4
-Symbols: 1 
-Characters List: ['I', 'w', 'e', 'n', 't', 't', 'o', 's', 'c', 'h', 'o', 'o', 'l', 't', 'o', 'd', 'a', 'y']
-==================================================
+
+- Sentence: I went to school today!
+- Letters: 18
+- Digits: 0
+- Spaces: 4
+- Symbols: 1 
+- Characters List:
+```text
+['I', 'w', 'e', 'n', 't', 't', 'o', 's', 'c', 'h', 'o', 'o', 'l', 't', 'o', 'd', 'a', 'y']
+```
+======================================================
