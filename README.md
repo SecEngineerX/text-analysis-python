@@ -1,4 +1,4 @@
-/# Text Analysis Python
+# Text Analysis Python
 
 **Overview**
 - A modular Python tool for **character-level text analysis**, capable of computing counts of letters, digits, spaces, and symbols.
