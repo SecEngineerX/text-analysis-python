@@ -1,0 +1,7 @@
+[2025-12-24 10:15:32]
+INFO: Connection established with server 192.168.0.101 
+Warning: CPU usage @ 92% on node #3
+UserID: Alpha_007 attempted login at 11:02:58;
+status: FAILED!
+API Response: {"status":"error","code":401,"message":"Unauthorized access"}
+Checksum: 3f5a9b8c-2d4e-11ee-8c99-0242ac120002
