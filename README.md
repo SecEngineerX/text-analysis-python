@@ -20,7 +20,7 @@
 
 ## Installation & Usage.
 
-   ```bash
+```bash
 # 1. Clone the repository:
    git clone https://github.com/SecEngineerX/text-analysis-python.git
 
@@ -31,7 +31,7 @@
    python3 text_analyzer.py
 
 # 4. Replace sample_data.txt or provide your own text input to analyze.
-
+```
 ## Sample Output
    Sentence: I went to school today!
    Letters: 18
